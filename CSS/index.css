@@ -9,7 +9,7 @@ nav {
 body {
 /* We need a color scheme for the website */
 background-color: black;
-font: comic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 a {
     text-decoration: none;
