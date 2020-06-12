@@ -9,6 +9,7 @@ nav {
 body {
 /* We need a color scheme for the website */
 background-color: black;
+font: comic;
 }
 a {
     text-decoration: none;
