@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color:rgb(253,255,252);    
+}
+nav {
+    text-align: center;
+    color:rgb(60,60,61);
+}
+body {
+/* We need a color scheme for the website */
+background-color: black;
+}
+a {
+    text-decoration: none;
+    color: rgb(253,255,252)
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
